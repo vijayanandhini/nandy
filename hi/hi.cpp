@@ -51,7 +51,7 @@ class my_age : public get_yr
 
 int main()
 {
-   cout<<"hi vijayanandhini.........\n";
+   cout<<"hi vijayanandhini changed in github.com.........\n";
  my_age a;
  get_yr yr;
    cout<<"In main............\n";
